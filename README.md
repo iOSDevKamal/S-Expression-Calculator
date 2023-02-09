@@ -9,6 +9,7 @@ Installation
 ```shell
 git clone https://github.com/iOSDevKamal/S-Expression-Calculator
 cd S-Expression-Calculator
+swift run expression
 ```
 
 Examples
